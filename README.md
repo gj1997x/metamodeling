@@ -22,7 +22,6 @@ The Vehicle Monitoring System (VMS) is a comprehensive solution designed to enha
 - Battery: Each component may have its own battery implemented with it or uses the main battery depending on its architecture and have an attributes of capacity, voltage, usage, charge cycles, battery name, and manufacturer. It is required by sensors to function.
 - ConnectivityModule: Includes attributes such as communication protocol, bandwidth, and range. It can be included in the embedded system and can have memory integrated with it.
 - Memory: it represents the memory of the system or the memory integrated within each component.
-- 
 
 
 #### EMF Metamodeling:
@@ -32,3 +31,9 @@ The Vehicle Monitoring System (VMS) is a comprehensive solution designed to enha
 
 
 The metamodel is a visual representation of how the various components of an embedded system for a vehicle monitoring system are organized and interact with each other. It is a high-level abstraction meant to facilitate understanding of the system's architecture and guide its implementation. There are alot of pusposes of building an EMF, such as that  EMF models are easily extensible. Furthermore, EMF also gives a form documentation that is very useful and can be integrated with different tools such as graphical editing, model transformation which allows for a more comprehensive development environment.The figure above represents the whole metal modeling of the system done by RM2PT. It can be clearly seen the classes with their type such as abstract class. Moreover, it can be seen that how are each class related with their references, multiplicity and their relationship name. Moreover, on the above right figure is the testing of the meta model by creating an instances of different classes and filling up their attributes with the approperaite data. Some of the instances are referenced depending on their design in the model with their relationships to other instances which are also specified.
+
+
+#### Siruis - Graphical Modeling:
+|       Graphical Design - Modeling      |                     Graphical Design Testing                              |
+| ----------------- | ------------------------------------------------------------------ |
+| <img width="547" alt="Defining Diagram (Task 2)" src="https://github.com/gj1997x/metamodeling/assets/148683770/15187c9d-efa8-460c-a0a2-136c464aa6f8"> |<img width="1280" alt="graphical diagram(Task 2)" src="https://github.com/gj1997x/metamodeling/assets/148683770/cfdb97a2-18e7-45b0-b1af-4d547026c356">
