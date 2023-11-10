@@ -1,5 +1,5 @@
 # Metamodeling - Embedded System (Vehicle Monitoring System)
-By: Ghanim alsuwaidi
+By: Ghanim Alsuwaidi (厄尼姆)
 
 Student ID: LS2321206
 
