@@ -4,7 +4,8 @@ By: Ghanim alsuwaidi
 Student ID: LS2321206
 
 Target Model: Embedded System - Vehicle Monitoring System
-#### The labtwo file contains the META MODEL. The Testing contains the instances and the design of my graphical meta model tool.
+#### The labtwo file contains the META MODEL. 
+#### The Testing contains the instances and the design of my graphical meta model tool.
 
 ### VMS - Vehicle Monitoring System
 The Vehicle Monitoring System (VMS) is a comprehensive solution designed to enhance vehicle safety, efficiency, and connectivity. It combines a range of embedded systems  to monitor vehicle performance, anticipate maintenance needs, ensure operational safety, and provide real-time data to drivers and remote monitoring centers.
@@ -45,3 +46,10 @@ The tool that was used to create the graphical design modeling was Siruis. As be
 <img width="649" alt="Xtext (Task 3)" src="https://github.com/gj1997x/metamodeling/assets/148683770/2f95b06a-48e7-4942-9155-8c5ca23813db">
 
 The main tool that was used to create the textual design modeling is Xtext. Xtext is very useful tool that does an automatic generation of the code which indicates the textual modeling of the model. The text editor also can be used as a way to represent the meta model that was made earlier and it does the same task as the graphical modeling.
+
+#### Testing Plugin:
+|       Graphical Modeling      |                     Textual modeling                              |
+| ----------------- | ------------------------------------------------------------------ |
+| <img width="952" alt="Graphical Modeling Testing(Task 4)" src="https://github.com/gj1997x/metamodeling/assets/148683770/bdde9cbf-ceb9-4c38-b43f-8ae59b6cc2d8">|<img width="1112" alt="Xtext - 4(Task 4)" src="https://github.com/gj1997x/metamodeling/assets/148683770/ed8d9e29-4a9e-4aa5-8af4-d623ac683634">
+
+The plugin was created and tested for both languages. On the figure on the left shows the graphical modeling language such that nodes can be draged and inserted on the diagram and it will be added on the model. These elemnts can be filled with the required attributes and references. As illustrated in the figure, after filling the required attributes and providing the reference, these will reflect on the diagram such that arrows will be made and names will be changed to the specified ones. On the other hand is the textual editor were it does the same functions as graphical modeling but using codes to create the nodes which thieir references.
