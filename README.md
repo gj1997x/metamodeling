@@ -37,3 +37,11 @@ The metamodel is a visual representation of how the various components of an emb
 |       Graphical Design - Modeling      |                     Graphical Design Testing                              |
 | ----------------- | ------------------------------------------------------------------ |
 | <img width="547" alt="Defining Diagram (Task 2)" src="https://github.com/gj1997x/metamodeling/assets/148683770/15187c9d-efa8-460c-a0a2-136c464aa6f8"> |<img width="1280" alt="graphical diagram(Task 2)" src="https://github.com/gj1997x/metamodeling/assets/148683770/cfdb97a2-18e7-45b0-b1af-4d547026c356">
+
+The tool that was used to create the graphical design modeling was Siruis. As been ilustrated from the first figure on the left, it shows how Siruis was used to create Nodes for each element, how references have been made which are the relation edges and the sections for each node. On the other hand, the figure on the right which shows the result of the graphical modeling that was desingned and displayes all the nodes created with their specified icons and their relations. Each relation is specified with different colours which makes it clear to identify which relations they are, what is the source node and the target node.
+
+#### Xtext - Textual Modeling:
+
+<img width="649" alt="Xtext (Task 3)" src="https://github.com/gj1997x/metamodeling/assets/148683770/2f95b06a-48e7-4942-9155-8c5ca23813db">
+
+The main tool that was used to create the textual design modeling is Xtext. Xtext is very useful tool that does an automatic generation of the code which indicates the textual modeling of the model. It also can be used as a way to represent the meta model that was made earlier and it does the same task as the graphical modeling.
