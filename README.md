@@ -6,7 +6,7 @@ Student ID: LS2321206
 Target Model: Embedded System - Vehicle Monitoring System
 #### FILES: labtwo, Testing, SNAPSHOT(plugin), testingMyPlugin
 - labtwo: Main Meta modeling file
-- Testing: Task two testing and creating instances.
+- Testing: Task two testing and creating childs.
 - labtwo.updatesite-1.0.0-SNAPSHOT: Plugin
 - testingMyPlugin: Plugin Testing
 
