@@ -3,6 +3,9 @@ By: Ghanim Alsuwaidi (厄尼姆)
 
 Student ID: LS2321206
 
+Non Compressed file: https://www.dropbox.com/scl/fo/ibbd7u7lim3h38dc0f1jl/h?rlkey=k0rmswmdywgxqx82ietta04zt&dl=0
+(This link contains the non compressed folders)
+
 Target Model: Embedded System - Vehicle Monitoring System
 #### FILES: labtwo, Testing, SNAPSHOT(plugin), testingMyPlugin
 - labtwo: Main Meta modeling file
