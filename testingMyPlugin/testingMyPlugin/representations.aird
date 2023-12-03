@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:labtwo="http://www.rm2pt.com/labtwo" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_Ifv2oHuyEe65rNVzF1KuMQ" selectedViews="_b-aZUHuzEe65rNVzF1KuMQ" version="14.5.1.202106111100">
+    <semanticResources>My.labtwo</semanticResources>
+    <semanticResources>embeddedSystem.labtwodsl</semanticResources>
+    <semanticResources>test.labtwodsl</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_b-aZUHuzEe65rNVzF1KuMQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_cWbQsHuzEe65rNVzF1KuMQ" name="new Components Diagram" repPath="#_cWHusHuzEe65rNVzF1KuMQ" changeId="4ba1cb5d-d186-4328-a92c-b3ac9f6a019b">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']"/>
+        <target xmi:type="labtwo:EmbeddedSystem" href="My.labtwo#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_cWHusHuzEe65rNVzF1KuMQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_cW38oHuzEe65rNVzF1KuMQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_cW38oXuzEe65rNVzF1KuMQ" type="Sirius" element="_cWHusHuzEe65rNVzF1KuMQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_cXdygHuzEe65rNVzF1KuMQ" type="2001" element="_cW38o3uzEe65rNVzF1KuMQ">
+          <children xmi:type="notation:Node" xmi:id="_cXnjgHuzEe65rNVzF1KuMQ" visible="false" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_cXnjgXuzEe65rNVzF1KuMQ" x="-5" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ccZ84HuzEe65rNVzF1KuMQ" type="3005" element="_cXBGkHuzEe65rNVzF1KuMQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ccZ84XuzEe65rNVzF1KuMQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ccZ84nuzEe65rNVzF1KuMQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_cXdygXuzEe65rNVzF1KuMQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cXdygnuzEe65rNVzF1KuMQ" x="340" y="119" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_cbzf8HuzEe65rNVzF1KuMQ" type="2001" element="_cXBGk3uzEe65rNVzF1KuMQ">
+          <children xmi:type="notation:Node" xmi:id="_cbzf83uzEe65rNVzF1KuMQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_cbzf9HuzEe65rNVzF1KuMQ" x="-5" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ccZ843uzEe65rNVzF1KuMQ" type="3005" element="_cXBGlHuzEe65rNVzF1KuMQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ccZ85HuzEe65rNVzF1KuMQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ccZ85XuzEe65rNVzF1KuMQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_cbzf8XuzEe65rNVzF1KuMQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cbzf8nuzEe65rNVzF1KuMQ" x="154" y="252" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_2loIgHuzEe65rNVzF1KuMQ" type="2001" element="_2lLclHuzEe65rNVzF1KuMQ">
+          <children xmi:type="notation:Node" xmi:id="_2lxScHuzEe65rNVzF1KuMQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_2lxScXuzEe65rNVzF1KuMQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2lxScnuzEe65rNVzF1KuMQ" type="3005" element="_2lLclXuzEe65rNVzF1KuMQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_2lxSc3uzEe65rNVzF1KuMQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2lxSdHuzEe65rNVzF1KuMQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_2loIgXuzEe65rNVzF1KuMQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2loIgnuzEe65rNVzF1KuMQ" x="574" y="434" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_I2pecH8NEe6UBoNs1UUE5A" type="2001" element="_I2fGUH8NEe6UBoNs1UUE5A">
+          <children xmi:type="notation:Node" xmi:id="_I2zPYH8NEe6UBoNs1UUE5A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_I2zPYX8NEe6UBoNs1UUE5A" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_I4mmMH8NEe6UBoNs1UUE5A" type="3005" element="_I2fGUX8NEe6UBoNs1UUE5A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_I4mmMX8NEe6UBoNs1UUE5A" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I4mmMn8NEe6UBoNs1UUE5A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_I2pecX8NEe6UBoNs1UUE5A" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I2pecn8NEe6UBoNs1UUE5A" x="728" y="189" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_cW38onuzEe65rNVzF1KuMQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_ccjt4HuzEe65rNVzF1KuMQ" type="4001" element="_cXK3lHuzEe65rNVzF1KuMQ" source="_cXdygHuzEe65rNVzF1KuMQ" target="_cbzf8HuzEe65rNVzF1KuMQ">
+          <children xmi:type="notation:Node" xmi:id="_ccjt5HuzEe65rNVzF1KuMQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ccjt5XuzEe65rNVzF1KuMQ" x="12"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ccs30HuzEe65rNVzF1KuMQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ccs30XuzEe65rNVzF1KuMQ" x="-19" y="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ccs30nuzEe65rNVzF1KuMQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ccs303uzEe65rNVzF1KuMQ" x="-13" y="3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ccjt4XuzEe65rNVzF1KuMQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ccjt4nuzEe65rNVzF1KuMQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ccjt43uzEe65rNVzF1KuMQ" points="[-20, 18, 166, -155]$[-186, 173, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ccs31HuzEe65rNVzF1KuMQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ccs31XuzEe65rNVzF1KuMQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_2lxSdXuzEe65rNVzF1KuMQ" type="4001" element="_2lLcm3uzEe65rNVzF1KuMQ" source="_cXdygHuzEe65rNVzF1KuMQ" target="_2loIgHuzEe65rNVzF1KuMQ">
+          <children xmi:type="notation:Node" xmi:id="_2lxSeXuzEe65rNVzF1KuMQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2lxSenuzEe65rNVzF1KuMQ" x="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2lxSe3uzEe65rNVzF1KuMQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2lxSfHuzEe65rNVzF1KuMQ" x="-10" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2lxSfXuzEe65rNVzF1KuMQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2lxSfnuzEe65rNVzF1KuMQ" x="-15" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_2lxSdnuzEe65rNVzF1KuMQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_2lxSd3uzEe65rNVzF1KuMQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2lxSeHuzEe65rNVzF1KuMQ" points="[14, 20, -220, -295]$[219, 295, -15, -20]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2lxSf3uzEe65rNVzF1KuMQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2lxSgHuzEe65rNVzF1KuMQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_R3RxYH8NEe6UBoNs1UUE5A" type="4001" element="_R3KcsH8NEe6UBoNs1UUE5A" source="_cXdygHuzEe65rNVzF1KuMQ" target="_I2pecH8NEe6UBoNs1UUE5A">
+          <children xmi:type="notation:Node" xmi:id="_R3RxZH8NEe6UBoNs1UUE5A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3RxZX8NEe6UBoNs1UUE5A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R3RxZn8NEe6UBoNs1UUE5A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3RxZ38NEe6UBoNs1UUE5A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R3Wp4H8NEe6UBoNs1UUE5A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R3Wp4X8NEe6UBoNs1UUE5A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_R3RxYX8NEe6UBoNs1UUE5A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_R3RxYn8NEe6UBoNs1UUE5A" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_R3RxY38NEe6UBoNs1UUE5A" points="[20, 3, -368, -67]$[368, 66, -20, -4]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R3aUQH8NEe6UBoNs1UUE5A" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R3aUQX8NEe6UBoNs1UUE5A" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_cXUBgHuzEe65rNVzF1KuMQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_cXUBgXuzEe65rNVzF1KuMQ"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_cW38o3uzEe65rNVzF1KuMQ" name="MCU-12837283" outgoingEdges="_cXK3lHuzEe65rNVzF1KuMQ _2lLcm3uzEe65rNVzF1KuMQ _R3KcsH8NEe6UBoNs1UUE5A" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="labtwo:Microcontroller" href="My.labtwo#//@components.0"/>
+      <semanticElements xmi:type="labtwo:Microcontroller" href="My.labtwo#//@components.0"/>
+      <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_cXBGknuzEe65rNVzF1KuMQ"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_cXBGkHuzEe65rNVzF1KuMQ" hideLabelByDefault="true" workspacePath="/labtwo.design/icons/microcontroller.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MicrocontrollerNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MicrocontrollerNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_cXBGk3uzEe65rNVzF1KuMQ" name="MCU-BATT" incomingEdges="_cXK3lHuzEe65rNVzF1KuMQ" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="labtwo:Battery" href="My.labtwo#//@ImplementedWith.0"/>
+      <semanticElements xmi:type="labtwo:Battery" href="My.labtwo#//@ImplementedWith.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_cXBGlHuzEe65rNVzF1KuMQ" workspacePath="/labtwo.design/icons/battery.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MicroControllerBattery']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MicroControllerBattery']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_cXK3lHuzEe65rNVzF1KuMQ" sourceNode="_cW38o3uzEe65rNVzF1KuMQ" targetNode="_cXBGk3uzEe65rNVzF1KuMQ">
+      <target xmi:type="labtwo:Microcontroller" href="My.labtwo#//@components.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_cXK3lXuzEe65rNVzF1KuMQ" sourceArrow="OutputArrow" size="2" strokeColor="114,159,207">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='mcuBatteryEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_cXK3lnuzEe65rNVzF1KuMQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='mcuBatteryEdge']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_2lLclHuzEe65rNVzF1KuMQ" name="PRESSURE1223" incomingEdges="_2lLcm3uzEe65rNVzF1KuMQ" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="labtwo:Sensor" href="My.labtwo#//@components.1"/>
+      <semanticElements xmi:type="labtwo:Sensor" href="My.labtwo#//@components.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_2lLclXuzEe65rNVzF1KuMQ" workspacePath="/labtwo.design/icons/sensor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='SensorNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='SensorNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_2lLcm3uzEe65rNVzF1KuMQ" sourceNode="_cW38o3uzEe65rNVzF1KuMQ" targetNode="_2lLclHuzEe65rNVzF1KuMQ">
+      <target xmi:type="labtwo:Microcontroller" href="My.labtwo#//@components.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_2lLcnHuzEe65rNVzF1KuMQ" size="2" strokeColor="173,127,168">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='SensorEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_2lLcnXuzEe65rNVzF1KuMQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='SensorEdge']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_I2fGUH8NEe6UBoNs1UUE5A" name="motor1" incomingEdges="_R3KcsH8NEe6UBoNs1UUE5A" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="labtwo:Motor" href="My.labtwo#//@components.2"/>
+      <semanticElements xmi:type="labtwo:Motor" href="My.labtwo#//@components.2"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_I2fGUX8NEe6UBoNs1UUE5A" workspacePath="/labtwo.design/icons/motor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MotorNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@nodeMappings[name='MotorNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_R3KcsH8NEe6UBoNs1UUE5A" sourceNode="_cW38o3uzEe65rNVzF1KuMQ" targetNode="_I2fGUH8NEe6UBoNs1UUE5A">
+      <target xmi:type="labtwo:Microcontroller" href="My.labtwo#//@components.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_R3KcsX8NEe6UBoNs1UUE5A" size="2" strokeColor="239,41,41">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='microcontrollerMotorEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_R3Kcsn8NEe6UBoNs1UUE5A" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer/@edgeMappings[name='microcontrollerMotorEdge']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_cWRfsHuzEe65rNVzF1KuMQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/labtwo.design/description/labtwo.odesign#//@ownedViewpoints[name='DeviceComponent']/@ownedRepresentations[name='Components%20Diagram']/@defaultLayer"/>
+    <target xmi:type="labtwo:EmbeddedSystem" href="My.labtwo#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

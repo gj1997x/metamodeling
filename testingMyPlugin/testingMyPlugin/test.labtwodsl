@@ -1,0 +1,8 @@
+EmbeddedSystem {
+
+	ImplementedWith{
+		Battery{
+			batteryName BATT-MCU requires ( Microcontroller("MCU1234") }
+			
+		},
+	}

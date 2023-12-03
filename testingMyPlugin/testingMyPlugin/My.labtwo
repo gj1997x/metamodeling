@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labtwo:EmbeddedSystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:labtwo="http://www.rm2pt.com/labtwo">
+  <components xsi:type="labtwo:Microcontroller" serialNumber="MCU-12837283" canHave="//@components.1" battery="//@ImplementedWith.0" controlledBy="//@components.2"/>
+  <components xsi:type="labtwo:Sensor" serialNumber="PRESSURE1223"/>
+  <components xsi:type="labtwo:Motor" serialNumber="motor1" controls="//@components.0"/>
+  <ImplementedWith requires="//@components.0" batteryName="MCU-BATT"/>
+</labtwo:EmbeddedSystem>

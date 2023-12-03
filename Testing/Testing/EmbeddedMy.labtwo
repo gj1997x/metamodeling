@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labtwo:EmbeddedSystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:labtwo="http://www.rm2pt.com/labtwo" modelNumber="VCU-2023" releaseDate="2020-05-13T00:00:00.000+0800" firmwareVersion="CarOS">
+  <components xsi:type="labtwo:Microcontroller" serialNumber="ECU4567891230" manufacturer="Qualcomm" includes="//@components.6" canHave="//@components.2 //@components.1" cores="8" clockSpeed="3.0" GPIOs="80" battery="//@ImplementedWith.1" controlledBy="//@components.10 //@components.11"/>
+  <components xsi:type="labtwo:Sensor" serialNumber="SPEED001254125" manufacturer="Continental" includes="//@components.7" type="ACCELEROMETER" range="300" samplingRate="50.0" outputSignal="DIGITAL" impacts="//@components.11"/>
+  <components xsi:type="labtwo:Sensor" serialNumber="PRESSURE00112233" manufacturer="Bosch" includes="//@components.8" range="150" samplingRate="10.0" outputSignal="DIGITAL" impacts="//@components.10"/>
+  <components xsi:type="labtwo:Actuator" serialNumber="ACT0011223344" manufacturer="Delphi" includes="//@components.9" type="THROTTLE_CONTROL" range="100.0" inputSignal="DIGITAL" operatesWith="//@ImplementedWith.0"/>
+  <components xsi:type="labtwo:Actuator" serialNumber="ACT0012345678" manufacturer="SpeedTech Industries" includes="//@components.9" type="CRUISE_CONTROL" range="100.0" inputSignal="DIGITAL" operatesWith="//@ImplementedWith.0"/>
+  <components xsi:type="labtwo:Memory" serialNumber="VCU-RAM1234567890" manufacturer="Kingston" type="DDR4" size="16" speed="3200"/>
+  <components xsi:type="labtwo:Memory" serialNumber="ECU-CACHE0011223344" manufacturer="Intel" type="SRAM" size="1" speed="2200"/>
+  <components xsi:type="labtwo:Memory" serialNumber="SPEED-SENSOR-ROM0011223344" manufacturer="Micron" canHave="//@components.1" type="ACCELEROMETER" size="1" speed="2200"/>
+  <components xsi:type="labtwo:Memory" serialNumber="PRESSURE-SENSOR-ROM0011223344" manufacturer="Micron" canHave="//@components.2" type="EEPROM" size="1" speed="2200"/>
+  <components xsi:type="labtwo:Memory" serialNumber="ACT-RAMBUFF0011223344" manufacturer="Corsair" type="DDR3" size="2" speed="1600"/>
+  <components xsi:type="labtwo:Motor" serialNumber="PRESSURE-MOTOR002" manufacturer="Nidec Motor Corporation" canHave="//@components.2" powerRating="10.0" speed="30.0" torque="1.0" motorType="Linear Actuator Motor" giveMeasurementsTo="//@components.2" controls="//@components.0" includedIn="//@ImplementedWith.0" command="//@components.3"/>
+  <components xsi:type="labtwo:Motor" serialNumber="SPEED-MOTOR002" manufacturer="Nidec Motor Corporation" canHave="//@components.1" powerRating="10.0" speed="30.0" torque="1.0" motorType="Linear Actuator Motor" giveMeasurementsTo="//@components.1" controls="//@components.0" includedIn="//@ImplementedWith.0" command="//@components.4"/>
+  <components xsi:type="labtwo:ConnectivityModule" serialNumber="CONNECTIVITY-MODULE-98V672XT5403" manufacturer="CommsAuto Tech" protocol=" IEEE 802.11p, WAVE" range="300.0" integratedWith="//@ImplementedWith.0" connects="//@components.0"/>
+  <ImplementedWith capacity="70.0" usage="MainBattery" chargeCycles="500" batteryName="MAINBATT001" manufacturer="Bosch"/>
+  <ImplementedWith capacity="225.0" voltage="3.0" usage="ECUbattery" chargeCycles="5" requires="//@components.0" batteryName="ECUBAT001" manufacturer="Panasonic"/>
+</labtwo:EmbeddedSystem>
